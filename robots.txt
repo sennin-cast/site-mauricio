@@ -1,0 +1,6 @@
+# robots.txt para Maurício Gimenez - Nutricionista Esportivo
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://mauriciogimenez.com.br/sitemap.xml
